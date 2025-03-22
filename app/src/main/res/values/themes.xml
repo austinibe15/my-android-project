@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Flightscry" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="bpkTextBody">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+
+    <style name="bpkTextHeading1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+</resources>
